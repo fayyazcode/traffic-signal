@@ -1,0 +1,10 @@
+.center{
+    width:60%;
+    margin: 0 auto;
+    height: 100vh;
+    position: relative;
+}
+img{
+    width:80% ;
+    height: 100%;   
+}

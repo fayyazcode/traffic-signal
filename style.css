@@ -8,3 +8,33 @@ img{
     width:80% ;
     height: 100%;   
 }
+.circle1{
+    /* background-color: red; */
+    width: 14%;
+    height: 16%;
+    border-radius: 100px;
+    position: absolute;
+    top: 17%;
+    right: 53%;
+
+}
+.circle2{
+    /* background-color: rgb(255, 251, 0); */
+    width: 14%;
+    height: 16%;
+    border-radius: 100px;
+    position: absolute;
+    top: 40%;
+    right: 53%;
+
+}
+.circle3{
+    /* background-color: rgb(23, 143, 29); */
+    width: 14%;
+    height: 16%;
+    border-radius: 100px;
+    position: absolute;
+    top: 63.5%;
+    right: 53%;
+
+}
